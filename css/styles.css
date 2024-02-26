@@ -855,10 +855,11 @@ img, video, iframe, embed, object {
 }
 
 #jacques {
-	background: #fff;
+	background: #101010;
 	padding-top: 35px;
 	padding-bottom: 25px;
 	overflow: hidden;
+	color: #e7e6e6;
 }
 #jacques .feature {
 	margin-top: 30px;
@@ -876,7 +877,7 @@ img, video, iframe, embed, object {
 	font: 18px/34px;
 	text-transform: uppercase;
 	letter-spacing: 1px;
-	color: #222;
+	color: #b2b1b1;
 }
 .fluid-video-wrapper {
 	margin-top: 18px;
@@ -890,10 +891,11 @@ img, video, iframe, embed, object {
 }
 
 #pat {
-	background: #fff;
+	background: #101010;
 	padding-top: 35px;
 	padding-bottom: 25px;
 	overflow: hidden;
+	color: #e7e6e6;
 }
 #pat .feature {
 	margin-top: 30px;
@@ -925,10 +927,11 @@ img, video, iframe, embed, object {
 }
 
 #corey {
-	background: #fff;
+	background: #101010;
 	padding-top: 35px;
 	padding-bottom: 25px;
 	overflow: hidden;
+	color: #e7e6e6;
 }
 #corey .feature {
 	margin-top: 30px;
@@ -960,10 +963,11 @@ img, video, iframe, embed, object {
 }
 
 #alex {
-	background: #fff;
+	background: #101010;
 	padding-top: 35px;
 	padding-bottom: 25px;
 	overflow: hidden;
+	color: #e7e6e6;
 }
 #alex .feature {
 	margin-top: 30px;
